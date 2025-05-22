@@ -1,0 +1,28 @@
+# Dealership Management System
+
+This is a Java console-based application that manages a car dealership's inventory. It supports adding, removing, listing, filtering, selling, and leasing vehicles. The app also stores contracts and inventory in CSV files.
+
+## Features
+
+Load and save dealership inventory from a file (`inventory.csv`)
+Search vehicles by:
+Price range
+Make and model
+Year range
+Color
+Mileage range
+Vehicle type
+Add a new vehicle
+Remove a vehicle by VIN
+Sell or lease a vehicle
+-Store sales/lease contracts in `contracts.csv`
+
+## Technologies Used
+
+- Java
+- OOP (Object-Oriented Programming)
+- File I/O (CSV handling)
+- Console-based user interface
+
+## File Structure
+
